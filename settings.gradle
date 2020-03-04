@@ -1,0 +1,2 @@
+rootProject.name='Arduino-Android-DHT11'
+include ':app'
